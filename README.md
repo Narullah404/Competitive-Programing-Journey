@@ -1,10 +1,10 @@
 # Competitive-Programing-Journey
 
-##Setup Competitive programming environment
+## Setup Competitive programming environment
 
 [Tutorial](https://www.geeksforgeeks.org/setting-up-sublime-text-for-cpp-competitive-programming-environment/)
 
-##Resources for competitive programing:
+## Resources for competitive programing:
 
 [Introduction to Greedy Algorithms](https://www.youtube.com/watch?v=HzeK7g8cD0Y)
 
