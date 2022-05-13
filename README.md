@@ -1,8 +1,23 @@
 # Competitive-Programing-Journey
 
-## Setup Competitive programming environment
+## Setup Competitive programming environment ( sublime text )
 
 [Tutorial](https://www.geeksforgeeks.org/setting-up-sublime-text-for-cpp-competitive-programming-environment/)
+
+#### note
+
+use below as your CP.sublime-build code
+
+<code>
+  {
+    "cmd": ["g++.exe", "-std=c++17", "${file}",
+            "-o", "${file_base_name}.exe",
+            "&&", "${file_base_name}.exe<in.txt>out.txt"],
+    "shell":true,
+    "working_dir":"$file_path",
+    "selector":"source.cpp"
+}
+<code>
 
 ## Resources for competitive programing:
 
